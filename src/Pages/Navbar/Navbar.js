@@ -25,7 +25,7 @@ const Navbar = () => {
     </React.Fragment>
   );
   return (
-    <div className="navbar bg-base-100 ml-24 max-w-7xl">
+    <div className="navbar bg-base-100 lg:ml-24 max-w-7xl">
       <div className="navbar-start">
         <div className="dropdown">
           <label tabIndex={0} className="btn btn-ghost lg:hidden">
